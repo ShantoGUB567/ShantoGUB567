@@ -15,7 +15,7 @@ I'm working on expanding my knowledge in various fields of computer science, inc
 - **Tools**: Git, VS Code, Linux
 
 ## 📫 How to reach me:
-- **Email**: shahriarshanto@gmail.com
+- **Email**: shahriarshanto221002567@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/shahriarshanto4916/
 - **GitHub**: https://github.com/ShantoGUB567
 
