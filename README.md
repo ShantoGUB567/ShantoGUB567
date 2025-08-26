@@ -186,6 +186,21 @@ Thank you for visiting my profile. Let's connect and grow together!
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ShantoGUB567/ShantoGUB567/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShantoGUB567.ShantoGUB567&"  />
+</div>
+
+###
+
+
+
+
 
 <!--
 - 👋 Hi, I’m @ShantoGUB567
