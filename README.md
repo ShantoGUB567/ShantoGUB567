@@ -76,10 +76,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </p> <hr> <br>
 
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=ShantoGUB567&limit=5&theme=dark&combine_all_yearly_contributions=true" height="300" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=ShantoGUB567&limit=5&theme=dark&combine_all_yearly_contributions=true" height="300" /></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" /></td>
+  </tr>
+</table>
+
 
 
 ---
