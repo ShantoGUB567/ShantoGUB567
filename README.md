@@ -43,7 +43,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   </div>
-</p> <hr> <br>
+</p> <br>
 
 ## <p align="left"> 📫 Contact
   <div align="left">
@@ -63,7 +63,7 @@
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
     </a>
   </div>
-</p> <hr> <br>
+</p> <br>
 
 ## <p align="left"> 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ShantoGUB567&theme=dark&hide_border=true&include_all_commits=false&count_private=false) -->
