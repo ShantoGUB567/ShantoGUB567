@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">! I'm Al Shahriar Ahommed Shanto </h1>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Androi Flutter+Developer+" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;Android+and+Flutter+Developer+" alt="Typing SVG" /></a> </p>
 
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br></p>
 
@@ -10,11 +10,12 @@
 </div>
 
 ### <p align="left">👨‍💻 About Me 
--🎓 Currently pursuing B.Sc. in CSE
--💡 Interested in Android, Flutter, and Cyber Security
--🌍 Portfolio: your-portfolio.example
--📂 See all projects on my GitHub
--🚴 I enjoy cycling, traveling, and exploring new tech
+- 🎓 Currently pursuing **B.Sc. in CSE**  
+- 💡 Interested in Android, Flutter, and Cyber Security  
+- 🌍 Portfolio: [your-portfolio.example](https://your-portfolio.example)  
+- 📂 See all projects on my [GitHub](https://github.com/Shanto)  
+- 🚴 I enjoy cycling, traveling, and exploring new tech  
+
 </p>
 
 Tech Stack
