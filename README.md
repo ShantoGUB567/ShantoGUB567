@@ -66,13 +66,20 @@
 </p> <hr> <br>
 
 ## <p align="left"> 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShantoGUB567&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ShantoGUB567&theme=dark&hide_border=true&include_all_commits=false&count_private=false) -->
 ![](https://nirzak-streak-stats.vercel.app/?user=ShantoGUB567&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoGUB567&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=ShantoGUB567&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </p>
 
+## <p align="left"> 🔝 Top Contributed Repo And Actvity Graph:
+![](https://github-contributor-stats.vercel.app/api?username=ShantoGUB567&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</p> <hr> <br>
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=ShantoGUB567&limit=5&theme=dark&combine_all_yearly_contributions=true" height="300" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" />
+</div>
 
 
 ---
