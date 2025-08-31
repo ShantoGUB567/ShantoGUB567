@@ -77,81 +77,13 @@
     </td>
   </tr>
 </table>
-
-![](https://nirzak-streak-stats.vercel.app/?user=ShantoGUB567&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoGUB567&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</p>
+</p>  <br>
 
 ## <p align="left"> 🔝 Top Contributed Repo And Actvity Graph:
-![](https://github-contributor-stats.vercel.app/api?username=ShantoGUB567&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</p> <hr> <br>
-
 <table align="center" border="0">
   <tr>
     <td><img src="https://github-contributor-stats.vercel.app/api?username=ShantoGUB567&limit=5&theme=dark&combine_all_yearly_contributions=true" height="300" /></td>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" /></td>
   </tr>
 </table>
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ShantoGUB567&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShantoGUB567/ShantoGUB567/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShantoGUB567&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShantoGUB567&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShantoGUB567/ShantoGUB567/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShantoGUB567/ShantoGUB567/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShantoGUB567/ShantoGUB567/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShantoGUB567.ShantoGUB567&"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShantoGUB567/ShantoGUB567/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShantoGUB567&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShantoGUB567&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShantoGUB567/ShantoGUB567/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShantoGUB567/ShantoGUB567/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShantoGUB567/ShantoGUB567/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-
+</p>  <br>
