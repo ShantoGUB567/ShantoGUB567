@@ -18,8 +18,7 @@
 
 </p>
 
-<p align="left">
-  ## 🛠️Tech Stack
+## <p align="left">🛠️Tech Stack
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
     <img width="12" />
