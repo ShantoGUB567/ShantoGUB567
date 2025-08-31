@@ -16,9 +16,9 @@
 - 📂 See all projects on my [GitHub](https://github.com/Shanto)  
 - 🚴 I enjoy cycling, traveling, and exploring new tech  
 
-</p>
+</p> <hr> <br>
 
-## <p align="left">🛠️Tech Stack
+## <p align="left"> 🛠️Tech Stack
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
     <img width="12" />
@@ -48,9 +48,27 @@
 </p>
 
 
-<p align="left"></p> 
+## <p align="left"> 📫 Contact
+  <div align="left">
+    <a href="https://www.linkedin.com/in/alshahriarshanto/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    </a>
+    <a href="https://www.facebook.com/shanto.4916" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    </a>
+    <a href="https://www.instagram.com/alshahriarshanto/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    </a>
+    <a href="alshahriarahommedshanto@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
+    <a href="https://wa.me/qr/OPSAGQFNRKHFA1" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    </a>
+  </div>
+</p> 
 
-Contact 
+ 
 GitHub Stat
 
 ###
@@ -59,23 +77,7 @@ GitHub Stat
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/alshahriarshanto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/shanto.4916" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/alshahriarshanto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="alshahriarahommedshanto@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/qr/OPSAGQFNRKHFA1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+
 
 
 
