@@ -67,6 +67,17 @@
 
 ## <p align="left"> 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ShantoGUB567&theme=dark&hide_border=true&include_all_commits=false&count_private=false) -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ShantoGUB567&theme=dark&hide_border=true" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoGUB567&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200" />
+    </td>
+  </tr>
+</table>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=ShantoGUB567&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantoGUB567&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </p>
@@ -76,7 +87,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </p> <hr> <br>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td><img src="https://github-contributor-stats.vercel.app/api?username=ShantoGUB567&limit=5&theme=dark&combine_all_yearly_contributions=true" height="300" /></td>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShantoGUB567&radius=16&theme=react&area=true&order=5" height="300" /></td>
