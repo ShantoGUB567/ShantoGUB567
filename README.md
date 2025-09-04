@@ -11,8 +11,8 @@
 ## <p align="left">👨‍💻 About Me 
 - 🎓 Currently pursuing **B.Sc. in CSE**  
 - 💡 Interested in Android, Flutter, and Cyber Security  
-- 🌍 Portfolio: [your-portfolio.example](https://your-portfolio.example)  
-- 📂 See all projects on my [GitHub](https://github.com/Shanto)  
+- 🌍 Portfolio: [ASA_Shanto](https://your-portfolio.example)  
+- 📂 See all projects on my [GitHub](https://github.com/ShantoGUB567/ShantoGUB567)  
 - 🚴 I enjoy cycling, traveling, and exploring new tech  
 </p> <hr> <br>
 
